@@ -1,0 +1,46 @@
+
+
+Sharad Pandey
+sharad868788@gmail.com|+91 8687886956|LinkedIn|GitHub
+Education
+Dr. A.P.J. Abdul Kalam Technical UniversityAug 2020 – Jul 2024
+B.Tech in Computer Science and Engineering75%
+New Standard Public SchoolApr 2019 – Apr 2020
+Intermediate (U.P. Board)69.6%
+Experience
+GBCN Pvt.  Ltd.  – React Developer – DevOps, AWSNov 2024 – Present
+–Developed modular and reusable React.js components, improving front-end performance by 30%.
+–Utilized Redux for robust state management, enabling efficient data handling across views.
+–Integrated RESTful APIs and improved request handling, reducing average server response time by over 200ms.
+–Managed EC2 infrastructure, ensuring continuous deployment with 99.9% uptime.
+–Created detailed benchmarks during load tests, enabling code optimizations that enhanced scalability.
+Codesoft Pvt.  Ltd.  – Web Development InternJul 2023 – Oct 2023
+–Implemented responsive UI using HTML5, CSS3, and JavaScript with cross-browser compatibility.
+–Identified and resolved 10+ bugs in production-ready code via comprehensive test coverage.
+–Contributed to campaign design using Canva and Figma, resulting in a 15% engagement boost.
+–Optimized performance through code splitting and asset minification, reducing load time by 40%.
+TCS iON – Young Professional ProgramMay 2023 – Jun 2023
+–Completed modules in agile workflows, testing, communication, and project prioritization.
+–Demonstrated leadership through simulated projects, improving problem-solving efficiency.
+Microsoft x LinkedIn – Generative AI CertificateNov 2023 – Dec 2023
+–Learned principles of responsible AI, prompt design, and real-world deployment best practices.
+–Built and refined a chatbot using Ollama2 and Retrieval-Augmented Generation for live Q/A.
+Projects
+Learning-Link Website – React.js, GoLang, MongoDBMar 2023 – Apr 2023
+–Developed a secure e-commerce platform with live payment integration and user auth system.
+–Managed product inventory and routing with React and Redux; backend served via GoLang and Express.
+AI Chatbot – Ollama2, RAGNov 2024 – Dec 2024
+–Created NLP chatbot integrated with knowledge base using RAG techniques.
+–Analyzed user feedback and refined prompts for better engagement and accuracy.
+Streamify – MERN StackJul 2024 – Aug 2024
+–Built a video platform supporting uploads, playback, likes, and secure login using JWT.
+–Designed REST APIs and implemented MongoDB indexing for better data retrieval.
+Technical Skills
+Languages:Java, JavaScript, HTML5, CSS3, SQL, Go
+Frameworks:React.js, Node.js, Express.js, Redux, Tailwind CSS
+Tools:Git, VS Code, PyCharm, AWS EC2, GCP, Postman, Figma
+Databases:MongoDB, MySQL
+Achievements
+•Solved 150+ problems on LeetCode, GFG, and HackerRank using Java and JavaScript.
+•Managed content strategy as Social Media Manager during academic tenure.
+•Certified in Generative AI Fundamentals by Microsoft.
